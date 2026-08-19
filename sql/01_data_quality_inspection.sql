@@ -49,3 +49,4 @@ ORDER BY Quantity;
 SELECT DISTINCT Price
 FROM raw_ecommerce_sales
 ORDER BY Price;
+
